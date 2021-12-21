@@ -1,5 +1,3 @@
-"Welcome to our second slide!"
----
-I am a God BWAHAHAHAHAHA!
+## title: "Welcome to our second slide!"
 
-you blockhead!
+You will all bow and worship me
